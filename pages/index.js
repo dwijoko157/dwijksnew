@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>HALO :)</title>
+        <title>Dwijks21</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="DWIJKS21 - Hitam" />
+        <Header title="Hitam" />
         <p className="description">
           Mau cari apaan? Web ini kosong :)
         </p>
