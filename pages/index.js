@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hitam" />
         <p className="description">
-          no one cares
+          Ndak penting
         </p>
       </main>
 
