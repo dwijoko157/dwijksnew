@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hitam" />
         <p className="description">
-          Mau cari apaan? Web ini kosong (:
+          no one cares
         </p>
       </main>
 
