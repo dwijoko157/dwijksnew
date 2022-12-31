@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="SELAMAT TAHUN BARU 2023" />
         <p className="description">
-          Semangat terus ya. Maaf ngetiknya disini. Dilihat ya syukur, kalo nggak juga ya gapapa
+          Semangat terus ya sayang<p>Maaf ngetiknya disini hehe<p>Dilihat ya syukur, kalo nggak juga ya gapapa</p></p>
         </p>
       </main>
 
